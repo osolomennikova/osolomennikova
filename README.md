@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=osolomennikova&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osolomennikova&hide=TeX&layout=compact)
+
 <!--
-**osolomennikova/osolomennikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sol-nikita/sol-nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
